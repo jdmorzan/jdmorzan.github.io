@@ -2,11 +2,11 @@ const pesoDropdown = document.getElementById("weight");
 const dosisDropdown = document.getElementById("dose");
 const tomasDropdown = document.getElementById("frequency");
 const presentacionDropdown = document.getElementById("presentation");
-const dosisTotalOutput = document.getElementById("dosis-total-output");
-const dosisPorTomaOutput = document.getElementById("dosis-por-toma-output");
-const divisionesPipetaOutput = document.getElementById("divisiones-pipeta-output");
-const pipetaOutput = document.getElementById("pipeta-output");
-const diasUsoOutput = document.getElementById("dias-uso-output");
+const dosisTotalOutput = document.getElementById("total-dose");
+const dosisPorTomaOutput = document.getElementById("dose-per-take");
+const divisionesPipetaOutput = document.getElementById("pipette-divisions");
+const pipetaOutput = document.getElementById("pipette");
+const diasUsoOutput = document.getElementById("days-of-use");
 
 const calculate = () => {
   const peso = parseFloat(pesoDropdown.value);
