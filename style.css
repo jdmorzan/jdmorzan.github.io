@@ -1,3 +1,4 @@
+/* Default styles */
 body {
   font-family: Arial, sans-serif;
   background-color: #f2f2f2;
@@ -59,4 +60,24 @@ p {
 
 span {
   font-weight: bold;
+}
+
+/* Media queries */
+@media only screen and (max-width: 767px) {
+  .container {
+    max-width: 100%;
+    padding: 10px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .container {
+    max-width: 800px;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .container {
+    max-width: 1000px;
+  }
 }
