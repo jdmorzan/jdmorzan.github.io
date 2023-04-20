@@ -27,9 +27,9 @@ const calculate = () => {
   diasUsoOutput.textContent = `${Math.ceil(diasUso)} days`;
 };
 
-pesoDropdown.addEventListener("change", calculate);
-dosisDropdown.addEventListener("change", calculate);
-tomasDropdown.addEventListener("change", calculate);
-presentacionDropdown.addEventListener("change", calculate);
+//pesoDropdown.addEventListener("change", calculate);
+//dosisDropdown.addEventListener("change", calculate);
+//tomasDropdown.addEventListener("change", calculate);
+//presentacionDropdown.addEventListener("change", calculate);
 
 calculate();
