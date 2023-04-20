@@ -1,15 +1,15 @@
-const calculate = () => {
-  const pesoDropdown =  document.getElementById("weight");
-  const dosisDropdown = document.getElementById("dose");
-  const tomasDropdown = document.getElementById("frequency");
-  const presentacionDropdown = document.getElementById("presentation");
-  const dosisTotalOutput = document.getElementById("total-dose");
-  const dosisPorTomaOutput = document.getElementById("dose-per-take");
-  const divisionesPipetaOutput = document.getElementById("pipette-divisions");
-  const pipetaOutput = document.getElementById("pipette");
-  const diasUsoOutput = document.getElementById("days-of-use");
+const pesoDropdown = document.getElementById("weight");
+const dosisDropdown = document.getElementById("dose");
+const tomasDropdown = document.getElementById("frequency");
+const presentacionDropdown = document.getElementById("presentation");
+const dosisTotalOutput = document.getElementById("total-dose");
+const dosisPorTomaOutput = document.getElementById("dose-per-take");
+const divisionesPipetaOutput = document.getElementById("pipette-divisions");
+const pipetaOutput = document.getElementById("pipette");
+const diasUsoOutput = document.getElementById("days-of-use");
 
-  const peso = parseFloat(pesoDropdown);
+const calculate = () => {
+  const peso = parseFloat(pesoDropdown.value);
   const dosisMG = parseFloat(dosisDropdown.value);
   const tomasDia = parseFloat(tomasDropdown.value);
   const presentacionML = parseFloat(presentacionDropdown.value);
@@ -26,3 +26,10 @@ const calculate = () => {
   pipetaOutput.textContent = pipeta;
   diasUsoOutput.textContent = `${Math.ceil(diasUso)} days`;
 };
+
+//pesoDropdown.addEventListener("change", calculate);
+//dosisDropdown.addEventListener("change", calculate);
+//tomasDropdown.addEventListener("change", calculate);
+//presentacionDropdown.addEventListener("change", calculate);
+
+calculate();
