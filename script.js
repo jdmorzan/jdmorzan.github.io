@@ -1,4 +1,4 @@
-const pesoDropdown = document.getElementById("weight");
+const pesoDropdown =  parseInt(document.getElementById("weight").value);
 const dosisDropdown = document.getElementById("dose");
 const tomasDropdown = document.getElementById("frequency");
 const presentacionDropdown = document.getElementById("presentation");
