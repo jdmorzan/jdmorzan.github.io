@@ -1,5 +1,5 @@
 const calculate = () => {
-  const pesoDropdown =  parseInt(document.getElementById("weight").value);
+  const pesoDropdown =  document.getElementById("weight");
   const dosisDropdown = document.getElementById("dose");
   const tomasDropdown = document.getElementById("frequency");
   const presentacionDropdown = document.getElementById("presentation");
