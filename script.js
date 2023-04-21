@@ -24,7 +24,7 @@ const calculate = () => {
   dosisPorTomaOutput.textContent = `${dosisPorToma.toFixed(2)} mg`;
   divisionesPipetaOutput.textContent = divisionesPipeta.toFixed(2);
   pipetaOutput.textContent = pipeta;
-  diasUsoOutput.textContent = `${Math.ceil(diasUso)} days`;
+  diasUsoOutput.textContent = `${Math.ceil(diasUso)} días`;
 };
 
 //pesoDropdown.addEventListener("change", calculate);
