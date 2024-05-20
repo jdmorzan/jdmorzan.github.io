@@ -1,0 +1,478 @@
+Curso acelerado internacional Data Analytics
+Nivel: Básico
+Inicio de clases: 04 de junio de 2024
+En alianza con Le Wagon
+Con nuestro curso acelerado Internacional
+Domina Google Sheets, SQL y Python para limpiar y ordenar bases de datos para la toma de decisiones en
+tu negocio.
+Con nuestro curso acelerado Internacional
+Nivel Básico
+Duración: 6 semanas (24 horas)
+Curso a Distancia: 3 horas de clases virtuales autónoma, 1 hora de tutoría en vivo (* La tutoría virtual en
+vivo es opcional y se realizará los jueves de 7:30 p. m. a 8:30 p. m.)
+Inversión: S/ 950
+Certificaciones
+• Doble certificación
+• Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Data Analytics - Básico, otorgado por la Escuela de Postgrado de la
+UPC.
+• Certificado del Curso Data Analytics - Básico, otorgado por Le Wagon
+Bootcamp Data Analytics - Básico
+Ecosistema de datos (data driven)
+• Ecosistema de datos y profesiones de análisis de datos.
+KPIs y Métricas de Negocio
+• Métricas y la elección de los KPIs a monitorear según el área de la empresa.
+• Análisis de las métricas clave para equipos de Data, Finanzas, Ventas, Producto y Marketing.
+Data Sourcing
+• Conceptos básicos de Google Sheet.
+• Importación, exploración, limpieza, análisis y visualización de datos.
+• Manejo de datos sin código.
+Transformaciones de Datos con SQL
+• SQL para la consulta y limpieza de bases de datos y transformación para el análisis.
+• Estadísticas
+• Introducción a los conceptos estadísticos básicos.
+Python
+• Lenguaje,conceptos y definiciones básicas de python.
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de programación
+con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del profesional
+para destacar en su entorno laboral.
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos, sugerencias
+profesionales y ofertas por sus compañeros de clase y otros alumnos de los diferentes cursos
+internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional como Airbnb,
+IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más reputadas.
+¿Qué aprenderás?
+• Trabajar con datos reales y análisis de los mismos.
+• Dominio de herramientas para el manejo de bases de datos: Google Sheets, SQL y Python.
+Programas que dominarás
+• Google Sheets
+• SQL
+• phyton
+
+
+Curso acelerado internacional Web Development
+Nivel: Básico
+Inicio de clases: 04 de junio de 2024
+En alianza con Le Wagon
+Con nuestro curso acelerado Internacional
+Adquiere conceptos básicos de programación para desarrollar una plataforma web.
+Aprende sobre HTML, CSS, JavaScript, Ruby, Figma, Git y la terminal.
+Con nuestro curso acelerado Internacional
+• Nivel Básico
+• Duración: 6 semanas (24 horas)
+• Curso a Distancia: 3 horas de clases virtuales autónoma, 1 hora de tutoría en
+vivo (* La tutoría virtual en vivo es opcional y se realizará los jueves de 7:30 p. m.
+a 8:30 p. m.)
+• Inversión: S/ 950
+Certificaciones
+Doble certificación
+• Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Web Development - Básico, otorgado por la Escuela
+de Postgrado de la UPC.
+• Certificado del Curso Web Development - Básico, otorgado por Le Wagon
+Bootcamp Web Development - Básico
+Conceptos fundamentales sobre Front End (HTML y CSS)
+• Estructura de HTML, las etiquetas y atributos, estructura de cajas (divs),
+selectores y propiedades de CSS.
+• Relacionamiento HTML y CSS, y utilidad para la generación de animación en la
+web mediante su manipulación con JavaScript.
+Front End Avanzado (JavaScript) y Back End
+• Pilares fundamentales de la programación orientada a objetos y la lógica de
+servidores.
+• Bases fundamentales de la programación: tipos de datos, variables, flujo de
+control, arrays e iteradores.
+• Manipulación del DOM utilizando JavaScript.
+Herramientas para el desarrollo del software
+• Ejecución de análisis de comportamiento de usuario (exit, tasa de rebote y
+conversiones).
+• Prototipo durante el proceso
+
+Curso acelerado internacionalUX/UI
+Nivel: Básico
+Inicio de clases: 04 de junio de 2024
+En alianza con Le Wagon
+Con nuestro curso acelerado Internacional
+• Curso especializado Aprende a diseñar y prototipar productos digitales
+• Duración: 6 semanas (24 horas)
+• Curso a Distancia: 3 horas de clases virtuales autónoma, 1 hora de tutoría en
+vivo (* La tutoría virtual en vivo es opcional y se realizará los jueves de 7:30 p. m.
+a 8:30 p. m.)
+• Modalidad: 100% virtual
+• Doble certificación: UPC y Le Wagon
+• Inversión: S/ 950
+Domina Figma y Analytics, y sé autónomo en la construcción de prototipos de
+productos digitales. Aplica soluciones de la experiencia de usuario y el diseño de las
+interfaces.
+Conoce los módulos de estudio del Curso Internacional UX/UI - Básico
+Certificaciones
+• Doble certificación
+• Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp UX/UI - Básico, otorgado por la Escuela de Postgrado
+de la UPC.
+• Certificado del Curso UX/UI, otorgado por Le Wagon
+Conoce los módulos de estudio del Curso Internacional UX/UI - Básico
+Creación de producto según las necesidades de usuario
+• Definición de una user persona.
+• Problemas con la metodología de descubrimiento del cliente (discovery).
+• Definición de una propuesta de valor única.
+Construcción de prototipo con Figma
+• Diseño Atómico, la nueva referencia para UI (átomos, componentes y diseños).
+• Creación de biblioteca de UI, flujo de usuario y esquemas.
+• Pruebas de usuario.
+• Identidad visual y construcción de un prototipo.
+Pruebas para la validación de interfaz de usuario
+• Ejecución de análisis de comportamiento de usuario (exit, tasa de rebote y
+conversiones) y reflejarlos en el prototipo durante el proceso de iteración.
+Fundamentos de Diseño UX y flujo de trabajo de diseñadores
+• Design loop: tomar decisiones basadas en datos.
+• Iterar en tu diseño con datos y análisis, diseñar tus aplicaciones o mapa del sitio.
+• Analisis de comportamiento (marca de calor y eventos de usuario).
+Proyecto final: construye un prototipo funcional
+• Construcción de prototipo y futuro producto.
+• Usuarios y clientes, y reflejo en sus experiencias.
+¿Por qué EPG UPC y Le Wagon?
+• DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela
+de programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día
+del profesional para destacar en su entorno laboral
+• NETWORKING
+
+BOOTCAMP Data Analytics with Power BI
+Nivel: Intermedio Inicio de clases: 11 de junio de 2024
+En alianza con Le Wagon
+Con nuestro bootcamp
+Optimiza el procesamiento de grandes bases de datos para la toma de decisiones con el
+dominio de Excel y Power BI.
+Horario: Martes y
+jueves de 7:00 p.m a
+9:00 p.m
+Nivel intermedio
+Duración: 17 semanas (100 horas)
+Bootcamp a distancia: Clases virtuales en vivo
+Inversión: S/ 3420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas
+semanales por LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+Certificado del Bootcamp Data Analytics with Power BI - Intermedio, otorgado por la
+Escuela de Postgrado de la UPC.
+Certificado del Bootcamp Data Analytics with Power BI - Intermedio, otorgado por Le
+Wagon
+BOOTCAMP Data Analytics with Power BI - Intermedio
+Data Driven
+Implementación de validaciones y formato de tablas. - Aplicación de
+análisis DAFO (FODA) con Excel.
+Implementación de fórmulas avanzadas y aplicación de fórmulas
+arrays.
+Configuración e implementación de Power BI y sus beneficios
+• Dominio e implementación de Power BI para potenciar la
+visualización y análisis de datos.
+• Conexión de fuentes de datos, creación de visualizaciones y
+generación de informes interactivos para la toma de
+decisiones.
+Ejercitación práctica de Power BI a distintas industrias
+• Aplicación práctica de Power BI en diversos sectores
+industriales y exploración de casos de uso específicos.
+• Creación de reportes interactivos para tomar decisiones
+basadas en datos.
+Metodologías Agile y Lean Startup para el trabajo en equipo
+• Ejercicios prácticos y casos de estudio.
+• Desarrollo de habilidades para la planificación iterativa y la
+gestión de proyectos.
+Proyecto final: realiza un análisis integral de los datos y su
+presentación
+• El cierre del programa se centra en la culminación de
+habilidades adquiridas a lo largo del curso, brindando a los
+participantes la oportunidad de aplicar metodologías y
+herramientas para realizar un análisis exhaustivo de datos y
+presentar sus hallazgos de manera efectiva.
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y
+Le Wagon, escuela de programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo
+aplicables al día a día del profesional para destacar en su entorno
+laboral
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán
+compartir consejos, recursos, sugerencias profesionales y ofertas
+por sus compañeros de clase y otros alumnos de los diferentes
+cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de
+renombre internacional como Airbnb, IBM, Shopify, Meta, etc. que
+aplican datos reales de algunas de las startups más reputadas.
+¿Qué aprenderás?
+• Autonomía para la toma de decisiones basadas en manejo de
+datos y tableros de control.
+• Excel para explorar y preparar los datos, y Power BI para
+ordenarlos y limpiarlos.
+• Implementación de fórmulas avanzadas y aplicaciónde fórmulas
+arrays.
+Programas que dominarás
+Power BI
+Excel
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
+Curso acelerado internacionalUX/UI
+Nivel: Básico
+Inicio de clases: 04 de junio de 2024
+En alianza con Le Wagon
+Con nuestro curso acelerado Internacional
+• Curso especializado Aprende a diseñar y prototipar productos digitales
+• Duración: 6 semanas (24 horas)
+• Curso a Distancia: 3 horas de clases virtuales autónoma, 1 hora de tutoría en
+vivo (* La tutoría virtual en vivo es opcional y se realizará los jueves de 7:30 p. m.
+a 8:30 p. m.)
+• Modalidad: 100% virtual
+• Doble certificación: UPC y Le Wagon
+• Inversión: S/ 950
+Domina Figma y Analytics, y sé autónomo en la construcción de prototipos de
+productos digitales. Aplica soluciones de la experiencia de usuario y el diseño de las
+interfaces.
+Conoce los módulos de estudio del Curso Internacional UX/UI - Básico
+Certificaciones
+• Doble certificación
+
+Bootcamp UX/UI
+Nivel: Intermedio
+Domina Figma y Webflow para la construcción de prototipos Web no code.
+Inicio de clases:
+16 de julio de 2024
+Horario
+Martes y jueves
+de 7:00 p. m. a
+9:00 p. m.
+Nivel
+Intermedio
+Duración
+17 semanas
+(100 horas)
+Bootcamp a distancia
+Clases virtuales en vivo
+Inversión
+S/ 3,420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas semanales por
+LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp UX/UI - Intermedio, otorgado por la Escuela de Postgrado de
+la UPC.
+• Certificado de UX/UI - Intermedio, otorgado por Le Wagon
+Bootcamp UX/UI - Intermedio
+Creación de un producto centrado en las necesidades de tus usuarios.
+• ¿Qué es Experiencia de Usuario (UX) e Interfaz de Usuario (UI)?
+• Definición de user persona, validación de un problema y descubrimiento del cliente
+(discovery)
+• ¿Cómo definir una propuesta de valor única?
+Construcción de un prototipo interactivo con Figma.
+• Diseño atómico: Nueva referencia para UI
+• Creación de biblioteca de UI, flujo de usuario y esquemas.
+• Identidad visual y construcción de prototipo.
+Validación de interfaz y técnicas avanzadas de UI
+• Dominio en prototipo de interfaz de usuario: Flexbox.
+• Técnicas de diseño interfaz: Wireframes.
+Dominio de Webflow en páginas No Code
+• Creación de página web con las herramientas HTML/CSS
+Proyecto Final
+• Automatización y medición de trafico mediante Tracking.
+Habilidades blandas empresariales:
+• Trabajo en equipo
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de
+programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del
+profesional para destacar en su entorno laboral
+NETWORKING
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos,
+sugerencias profesionales y ofertas por sus compañeros de clase y otros alumnos de los
+diferentes cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional
+como Airbnb, IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más
+reputadas.
+¿Qué aprenderás?
+• Creación de productos digitales y páginas web sin código.
+• Uso de herramientas de Diseño: Figma y Webflow.
+• Diseño y ejecución de productos con una comunicación efectiva en equipo.
+Programas que dominarás
+Figma
+Webflow
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
+
+Bootcamp Back End Developer
+Nivel: Intermedio
+Domina los fundamentos de la programación con Ruby y optimiza el desarrollo web.
+Inicio de clases:
+16 de julio de 2024
+En alianza con Le Wagon
+Horario
+Martes y jueves
+de 7:00 p. m. a
+9:00 p. m.
+Nivel
+Intermedio
+Duración
+17 semanas
+(100 horas)
+Bootcamp a distancia
+Clases virtuales en vivo
+Inversión
+S/ 3,420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas semanales por
+LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Back End Developer- Intermedio, otorgado por la Escuela de
+Postgrado de la UPC.
+• Certificado de Back End Developer - Intermedio, otorgado por Le Wagon
+Bootcamp Back End Developer - Intermedio
+Fundamentos del Back End (Ruby)
+• Introducción a la programación con Ruby
+• Tipos de variables, estructuras de control y funciones
+• Caso aplicativo
+Dominio de flujo Web
+• ¿Cómo controlar el flujo de una aplicación web back-end con Ruby?
+• Dominio Avanzado de Condicionales y Arrays
+Optimización de Habilidades de Programación
+• Estructuras de Datos Avanzadas: Arrays, Bloques, Hashes y Símbolos.
+• Implementación de Algoritmos Complejos para Datos Modulares.
+Dominio de extracción y validación de data.
+• Implementación de expresiones regulares con Ruby.
+Creación de comunicación entre sistemas
+• Implementación de expresiones regulares con Ruby
+• Manejo de formatos para programación: CSV, XML y JSON.
+Habilidades blandas empresariales:
+• Trabajo en equipo
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de
+programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del
+profesional para destacar en su entorno laboral.
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos,
+sugerencias profesionales y ofertas por sus compañeros de clase y otros alumnos de los
+diferentes cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional
+como Airbnb, IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más
+reputadas.
+¿Qué aprenderás?
+• Dominio del uso de Ruby en programación.
+• Toma de decisiones efectivas en el desarrollo de productos.
+• Desarrrollo de productos digitales (Web).
+• Aplicar herramientas y lenguajes esenciales en el desarrollo web.
+Programas que dominarás
+Ruby
+JSON
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
+****
+
+Bootcamp Front End Developer
+Nivel: Intermedio
+Desarrolla una web utilizando HTML, CSS y JavaScript.
+Inicio de clases:
+16 de julio de 2024
+En alianza con Le Wagon
+Horario
+Martes y jueves
+de 7:00 p. m. a
+9:00 p. m.
+Nivel
+Intermedio
+Duración
+17 semanas
+(100 horas)
+Bootcamp a distancia
+Clases virtuales en vivo
+Inversión
+S/ 3,420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas semanales por
+LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Front End Developer- Intermedio, otorgado por la Escuela de
+Postgrado de la UPC.
+• Certificado de Front End Developer - Intermedio, otorgado por Le Wagon
+Bootcamp Front End Developer - Intermedio
+Fundamentos del Front End (HTML y CSS)
+• ¿Qué es HTTPs, Front End y Back End?
+• Generación de animación web: HTML, CSS y JavaScript.
+Dominio del Diseño Web Moderno: Responsive y KIT UI
+• Creación de intercafes web adaptales.
+• Desarrollo de KIT UI con componentes reutilizables
+• Optimiza tu flujo de trabajo y crea sitios web con un estilo profesional.
+Interactividad Web: Flexbox y Servicios Tercerizados
+• Dominio en interactividad web con Flexbox.
+• Implementación de formulario dinámicos y funcionalidades de web con Typeform.
+Optimización de Workflow: Dominio y Analytics, Sublime Text y Emmet
+• Optimización de flujo de trabajo con Sublime Text y Emmet.
+• Exploración de las mejores prácticas de dominio y análisis para optimizar el workflow.
+Proyecto Final y React
+• Creación de interfaces web interactivas con React y JavaScript.
+• Exploración de React con Rails.
+• Caso práctico: Creación de un ecommerce con React y Rails.
+Habilidades blandas empresariales:
+• Trabajo en equipo
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de
+programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del
+profesional para destacar en su entorno laboral.
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos,
+sugerencias profesionales y ofertas por sus compañeros de clase y otros alumnos de los
+diferentes cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional
+como Airbnb, IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más
+reputadas.
+¿Qué aprenderás?
+• Dominio en herramientas de desarrollo web.
+• Conocimiento en Desarrollo de Productos Digitales (Web).
+• Uso de herramientas para desarrollo web: HTML, CSS, JavaScript, Ruby, Git, React.
+Programas que dominarás
+Ruby
+JavaScript
+Figma
+React
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
+
+Eres un experto coach comercial empático, didáctico, proactivo, curioso y amable . Tu objetivo es ayudar y asesorar a nuevos vendedores a conocer y entender los bootcamps que ofrecemos para que puedan informar y convencer a los clientes potenciales de manera efectiva. Coméntale que puedes ayudarle a entender los detalles de nuestros bootcamps.
+
+Objetivos:
+Durante la conversación, debes ser capaz de:
+- Entender los sesgos de los vendedores: Conoces cómo los vendedores toman decisiones y sus motivaciones.
+- Dar orientación experta: Conoces al vendedor y le brindas la información relevante para que entienda y promueva el programa adecuadamente. Lo guías en el proceso.
+- Ayudar a decidir: Generas confianza y seguridad para que el vendedor pueda comunicar eficazmente los beneficios del bootcamp a los clientes potenciales.
+
+Lineamientos:
+
+- Brinda la información solicitada y, al dar la respuesta, pregúntale al vendedor si requiere más información sobre el bootcamp o haz preguntas enfocadas en mejorar su entendimiento y capacidad de venta.
+- Resalta beneficios, logros y la importancia del bootcamp en cuestión.
+- Muestra beneficios inmediatos y menciona cualquier escasez de la propuesta.
+- En caso tengas la información, proporciona testimonios y estadísticas de cómo sirve el programa, y menciona a los expertos que han diseñado o son profesores del curso.
+- Formato de respuesta: Proporciona mensajes claros con bullets y negritas. 
+
+Restricciones:
+
+- Si ya has saludado antes o dicho hola en la conversación, no lo vuelvas a hacer.
+
