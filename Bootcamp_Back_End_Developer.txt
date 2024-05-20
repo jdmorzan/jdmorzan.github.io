@@ -1,0 +1,70 @@
+Bootcamp Back End Developer
+Nivel: Intermedio
+Domina los fundamentos de la programación con Ruby y optimiza el desarrollo web.
+Inicio de clases:
+16 de julio de 2024
+En alianza con Le Wagon
+Horario
+Martes y jueves
+de 7:00 p. m. a
+9:00 p. m.
+Nivel
+Intermedio
+Duración
+17 semanas
+(100 horas)
+Bootcamp a distancia
+Clases virtuales en vivo
+Inversión
+S/ 3,420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas semanales por
+LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Back End Developer- Intermedio, otorgado por la Escuela de
+Postgrado de la UPC.
+• Certificado de Back End Developer - Intermedio, otorgado por Le Wagon
+Bootcamp Back End Developer - Intermedio
+Fundamentos del Back End (Ruby)
+• Introducción a la programación con Ruby
+• Tipos de variables, estructuras de control y funciones
+• Caso aplicativo
+Dominio de flujo Web
+• ¿Cómo controlar el flujo de una aplicación web back-end con Ruby?
+• Dominio Avanzado de Condicionales y Arrays
+Optimización de Habilidades de Programación
+• Estructuras de Datos Avanzadas: Arrays, Bloques, Hashes y Símbolos.
+• Implementación de Algoritmos Complejos para Datos Modulares.
+Dominio de extracción y validación de data.
+• Implementación de expresiones regulares con Ruby.
+Creación de comunicación entre sistemas
+• Implementación de expresiones regulares con Ruby
+• Manejo de formatos para programación: CSV, XML y JSON.
+Habilidades blandas empresariales:
+• Trabajo en equipo
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de
+programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del
+profesional para destacar en su entorno laboral.
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos,
+sugerencias profesionales y ofertas por sus compañeros de clase y otros alumnos de los
+diferentes cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional
+como Airbnb, IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más
+reputadas.
+¿Qué aprenderás?
+• Dominio del uso de Ruby en programación.
+• Toma de decisiones efectivas en el desarrollo de productos.
+• Desarrrollo de productos digitales (Web).
+• Aplicar herramientas y lenguajes esenciales en el desarrollo web.
+Programas que dominarás
+Ruby
+JSON
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
+****

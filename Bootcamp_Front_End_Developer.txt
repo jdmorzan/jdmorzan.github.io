@@ -1,0 +1,72 @@
+Bootcamp Front End Developer
+Nivel: Intermedio
+Desarrolla una web utilizando HTML, CSS y JavaScript.
+Inicio de clases:
+16 de julio de 2024
+En alianza con Le Wagon
+Horario
+Martes y jueves
+de 7:00 p. m. a
+9:00 p. m.
+Nivel
+Intermedio
+Duración
+17 semanas
+(100 horas)
+Bootcamp a distancia
+Clases virtuales en vivo
+Inversión
+S/ 3,420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas semanales por
+LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Front End Developer- Intermedio, otorgado por la Escuela de
+Postgrado de la UPC.
+• Certificado de Front End Developer - Intermedio, otorgado por Le Wagon
+Bootcamp Front End Developer - Intermedio
+Fundamentos del Front End (HTML y CSS)
+• ¿Qué es HTTPs, Front End y Back End?
+• Generación de animación web: HTML, CSS y JavaScript.
+Dominio del Diseño Web Moderno: Responsive y KIT UI
+• Creación de intercafes web adaptales.
+• Desarrollo de KIT UI con componentes reutilizables
+• Optimiza tu flujo de trabajo y crea sitios web con un estilo profesional.
+Interactividad Web: Flexbox y Servicios Tercerizados
+• Dominio en interactividad web con Flexbox.
+• Implementación de formulario dinámicos y funcionalidades de web con Typeform.
+Optimización de Workflow: Dominio y Analytics, Sublime Text y Emmet
+• Optimización de flujo de trabajo con Sublime Text y Emmet.
+• Exploración de las mejores prácticas de dominio y análisis para optimizar el workflow.
+Proyecto Final y React
+• Creación de interfaces web interactivas con React y JavaScript.
+• Exploración de React con Rails.
+• Caso práctico: Creación de un ecommerce con React y Rails.
+Habilidades blandas empresariales:
+• Trabajo en equipo
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de
+programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del
+profesional para destacar en su entorno laboral.
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos,
+sugerencias profesionales y ofertas por sus compañeros de clase y otros alumnos de los
+diferentes cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional
+como Airbnb, IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más
+reputadas.
+¿Qué aprenderás?
+• Dominio en herramientas de desarrollo web.
+• Conocimiento en Desarrollo de Productos Digitales (Web).
+• Uso de herramientas para desarrollo web: HTML, CSS, JavaScript, Ruby, Git, React.
+Programas que dominarás
+Ruby
+JavaScript
+Figma
+React
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!

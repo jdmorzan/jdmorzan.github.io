@@ -1,0 +1,68 @@
+Bootcamp UX/UI
+Nivel: Intermedio
+Domina Figma y Webflow para la construcción de prototipos Web no code.
+Inicio de clases:
+16 de julio de 2024
+Horario
+Martes y jueves
+de 7:00 p. m. a
+9:00 p. m.
+Nivel
+Intermedio
+Duración
+17 semanas
+(100 horas)
+Bootcamp a distancia
+Clases virtuales en vivo
+Inversión
+S/ 3,420
+* Las clases son de 4 horas virtuales en vivo y 2 horas de clases virtuales autónomas semanales por
+LeWagon. Los últimos 5 días días de clases son dictados por EPG UPC.
+Certificaciones
+Doble certificación
+Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp UX/UI - Intermedio, otorgado por la Escuela de Postgrado de
+la UPC.
+• Certificado de UX/UI - Intermedio, otorgado por Le Wagon
+Bootcamp UX/UI - Intermedio
+Creación de un producto centrado en las necesidades de tus usuarios.
+• ¿Qué es Experiencia de Usuario (UX) e Interfaz de Usuario (UI)?
+• Definición de user persona, validación de un problema y descubrimiento del cliente
+(discovery)
+• ¿Cómo definir una propuesta de valor única?
+Construcción de un prototipo interactivo con Figma.
+• Diseño atómico: Nueva referencia para UI
+• Creación de biblioteca de UI, flujo de usuario y esquemas.
+• Identidad visual y construcción de prototipo.
+Validación de interfaz y técnicas avanzadas de UI
+• Dominio en prototipo de interfaz de usuario: Flexbox.
+• Técnicas de diseño interfaz: Wireframes.
+Dominio de Webflow en páginas No Code
+• Creación de página web con las herramientas HTML/CSS
+Proyecto Final
+• Automatización y medición de trafico mediante Tracking.
+Habilidades blandas empresariales:
+• Trabajo en equipo
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de
+programación con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del
+profesional para destacar en su entorno laboral
+NETWORKING
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos,
+sugerencias profesionales y ofertas por sus compañeros de clase y otros alumnos de los
+diferentes cursos internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional
+como Airbnb, IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más
+reputadas.
+¿Qué aprenderás?
+• Creación de productos digitales y páginas web sin código.
+• Uso de herramientas de Diseño: Figma y Webflow.
+• Diseño y ejecución de productos con una comunicación efectiva en equipo.
+Programas que dominarás
+Figma
+Webflow
+¡Potencia tus habilidades para alcanzar tu propia definición de éxito!

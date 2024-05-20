@@ -1,0 +1,56 @@
+Curso acelerado internacional Data Analytics
+Nivel: Básico
+Inicio de clases: 04 de junio de 2024
+En alianza con Le Wagon
+Con nuestro curso acelerado Internacional
+Domina Google Sheets, SQL y Python para limpiar y ordenar bases de datos para la toma de decisiones en
+tu negocio.
+Con nuestro curso acelerado Internacional
+Nivel Básico
+Duración: 6 semanas (24 horas)
+Curso a Distancia: 3 horas de clases virtuales autónoma, 1 hora de tutoría en vivo (* La tutoría virtual en
+vivo es opcional y se realizará los jueves de 7:30 p. m. a 8:30 p. m.)
+Inversión: S/ 950
+Certificaciones
+• Doble certificación
+• Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
+• Certificado del Bootcamp Data Analytics - Básico, otorgado por la Escuela de Postgrado de la
+UPC.
+• Certificado del Curso Data Analytics - Básico, otorgado por Le Wagon
+Bootcamp Data Analytics - Básico
+Ecosistema de datos (data driven)
+• Ecosistema de datos y profesiones de análisis de datos.
+KPIs y Métricas de Negocio
+• Métricas y la elección de los KPIs a monitorear según el área de la empresa.
+• Análisis de las métricas clave para equipos de Data, Finanzas, Ventas, Producto y Marketing.
+Data Sourcing
+• Conceptos básicos de Google Sheet.
+• Importación, exploración, limpieza, análisis y visualización de datos.
+• Manejo de datos sin código.
+Transformaciones de Datos con SQL
+• SQL para la consulta y limpieza de bases de datos y transformación para el análisis.
+• Estadísticas
+• Introducción a los conceptos estadísticos básicos.
+Python
+• Lenguaje,conceptos y definiciones básicas de python.
+¿Por qué EPG UPC y Le Wagon?
+DOBLE CERTIFICACIÓN
+Los alumnos recibirán una doble certicación brindada por EPG UPC y Le Wagon, escuela de programación
+con presencia en +100 países.
+Cursos intensivos 80% práctico - 20% teórico
+Adquiere herramientas y habilidades tecnológicas en corto tiempo aplicables al día a día del profesional
+para destacar en su entorno laboral.
+Networking
+Todos los alumnos tendrán acceso a la red Slack donde podrán compartir consejos, recursos, sugerencias
+profesionales y ofertas por sus compañeros de clase y otros alumnos de los diferentes cursos
+internacionales acelerados de EPG UPC y LeWagon
+Docentes practitioners
+Expertos en tecnología, data, digital que laboran en empresas de renombre internacional como Airbnb,
+IBM, Shopify, Meta, etc. que aplican datos reales de algunas de las startups más reputadas.
+¿Qué aprenderás?
+• Trabajar con datos reales y análisis de los mismos.
+• Dominio de herramientas para el manejo de bases de datos: Google Sheets, SQL y Python.
+Programas que dominarás
+• Google Sheets
+• SQL
+• phyton
