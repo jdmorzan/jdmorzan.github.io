@@ -17,21 +17,21 @@ Certificaciones
 • Certificado del Bootcamp Data Analytics - Básico, otorgado por la Escuela de Postgrado de la
 UPC.
 • Certificado del Curso Data Analytics - Básico, otorgado por Le Wagon
-Bootcamp Data Analytics - Básico
-Ecosistema de datos (data driven)
+Temario Bootcamp Data Analytics - Básico
+Tema 1 Ecosistema de datos (data driven)
 • Ecosistema de datos y profesiones de análisis de datos.
-KPIs y Métricas de Negocio
+Tema 2 KPIs y Métricas de Negocio
 • Métricas y la elección de los KPIs a monitorear según el área de la empresa.
 • Análisis de las métricas clave para equipos de Data, Finanzas, Ventas, Producto y Marketing.
-Data Sourcing
+Tema 3Data Sourcing
 • Conceptos básicos de Google Sheet.
 • Importación, exploración, limpieza, análisis y visualización de datos.
 • Manejo de datos sin código.
-Transformaciones de Datos con SQL
+Tema 4 Transformaciones de Datos con SQL
 • SQL para la consulta y limpieza de bases de datos y transformación para el análisis.
 • Estadísticas
 • Introducción a los conceptos estadísticos básicos.
-Python
+Tema 5 Python
 • Lenguaje,conceptos y definiciones básicas de python.
 ¿Por qué EPG UPC y Le Wagon?
 DOBLE CERTIFICACIÓN
@@ -76,24 +76,24 @@ Doble certificación
 • Certificado del Bootcamp Web Development - Básico, otorgado por la Escuela
 de Postgrado de la UPC.
 • Certificado del Curso Web Development - Básico, otorgado por Le Wagon
-Bootcamp Web Development - Básico
-Conceptos fundamentales sobre Front End (HTML y CSS)
+Temario Bootcamp Web Development - Básico
+Tema 1 Conceptos fundamentales sobre Front End (HTML y CSS)
 • Estructura de HTML, las etiquetas y atributos, estructura de cajas (divs),
 selectores y propiedades de CSS.
 • Relacionamiento HTML y CSS, y utilidad para la generación de animación en la
 web mediante su manipulación con JavaScript.
-Front End Avanzado (JavaScript) y Back End
+Tema 2 Front End Avanzado (JavaScript) y Back End
 • Pilares fundamentales de la programación orientada a objetos y la lógica de
 servidores.
 • Bases fundamentales de la programación: tipos de datos, variables, flujo de
 control, arrays e iteradores.
 • Manipulación del DOM utilizando JavaScript.
-Herramientas para el desarrollo del software
+Tema 3 Herramientas para el desarrollo del software
 • Ejecución de análisis de comportamiento de usuario (exit, tasa de rebote y
 conversiones).
 • Prototipo durante el proceso
 
-Curso acelerado internacionalUX/UI
+Bootcamp UXUI
 Nivel: Básico
 Inicio de clases: 04 de junio de 2024
 En alianza con Le Wagon
@@ -109,31 +109,31 @@ a 8:30 p. m.)
 Domina Figma y Analytics, y sé autónomo en la construcción de prototipos de
 productos digitales. Aplica soluciones de la experiencia de usuario y el diseño de las
 interfaces.
-Conoce los módulos de estudio del Curso Internacional UX/UI - Básico
+Conoce los módulos o temario de estudio del Curso Internacional UX/UI - Básico
 Certificaciones
 • Doble certificación
 • Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
 • Certificado del Bootcamp UX/UI - Básico, otorgado por la Escuela de Postgrado
 de la UPC.
 • Certificado del Curso UX/UI, otorgado por Le Wagon
-Conoce los módulos de estudio del Curso Internacional UX/UI - Básico
-Creación de producto según las necesidades de usuario
+Conoce los módulos de estudio o temario del Curso Internacional UX/UI - Básico
+Tema 1 Creación de producto según las necesidades de usuario
 • Definición de una user persona.
 • Problemas con la metodología de descubrimiento del cliente (discovery).
 • Definición de una propuesta de valor única.
-Construcción de prototipo con Figma
+Tema 2 Construcción de prototipo con Figma
 • Diseño Atómico, la nueva referencia para UI (átomos, componentes y diseños).
 • Creación de biblioteca de UI, flujo de usuario y esquemas.
 • Pruebas de usuario.
 • Identidad visual y construcción de un prototipo.
-Pruebas para la validación de interfaz de usuario
+Tema 3 Pruebas para la validación de interfaz de usuario
 • Ejecución de análisis de comportamiento de usuario (exit, tasa de rebote y
 conversiones) y reflejarlos en el prototipo durante el proceso de iteración.
-Fundamentos de Diseño UX y flujo de trabajo de diseñadores
+Tema 4 Fundamentos de Diseño UX y flujo de trabajo de diseñadores
 • Design loop: tomar decisiones basadas en datos.
 • Iterar en tu diseño con datos y análisis, diseñar tus aplicaciones o mapa del sitio.
 • Analisis de comportamiento (marca de calor y eventos de usuario).
-Proyecto final: construye un prototipo funcional
+Tema 5 Proyecto final: construye un prototipo funcional
 • Construcción de prototipo y futuro producto.
 • Usuarios y clientes, y reflejo en sus experiencias.
 ¿Por qué EPG UPC y Le Wagon?
@@ -167,28 +167,28 @@ Certificado del Bootcamp Data Analytics with Power BI - Intermedio, otorgado por
 Escuela de Postgrado de la UPC.
 Certificado del Bootcamp Data Analytics with Power BI - Intermedio, otorgado por Le
 Wagon
-BOOTCAMP Data Analytics with Power BI - Intermedio
-Data Driven
-Implementación de validaciones y formato de tablas. - Aplicación de
+Temario del BOOTCAMP Data Analytics with Power BI - Intermedio
+Tema 1 Data Driven
+Tema 2 Implementación de validaciones y formato de tablas. - Aplicación de
 análisis DAFO (FODA) con Excel.
-Implementación de fórmulas avanzadas y aplicación de fórmulas
+Tema 3 Implementación de fórmulas avanzadas y aplicación de fórmulas
 arrays.
-Configuración e implementación de Power BI y sus beneficios
+Tema 4 Configuración e implementación de Power BI y sus beneficios
 • Dominio e implementación de Power BI para potenciar la
 visualización y análisis de datos.
 • Conexión de fuentes de datos, creación de visualizaciones y
 generación de informes interactivos para la toma de
 decisiones.
-Ejercitación práctica de Power BI a distintas industrias
+Tema 5 Ejercitación práctica de Power BI a distintas industrias
 • Aplicación práctica de Power BI en diversos sectores
 industriales y exploración de casos de uso específicos.
 • Creación de reportes interactivos para tomar decisiones
 basadas en datos.
-Metodologías Agile y Lean Startup para el trabajo en equipo
+Tema 6 Metodologías Agile y Lean Startup para el trabajo en equipo
 • Ejercicios prácticos y casos de estudio.
 • Desarrollo de habilidades para la planificación iterativa y la
 gestión de proyectos.
-Proyecto final: realiza un análisis integral de los datos y su
+Tema 7 Proyecto final: realiza un análisis integral de los datos y su
 presentación
 • El cierre del programa se centra en la culminación de
 habilidades adquiridas a lo largo del curso, brindando a los
@@ -223,6 +223,7 @@ Programas que dominarás
 Power BI
 Excel
 ¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
+
 Curso acelerado internacionalUX/UI
 Nivel: Básico
 Inicio de clases: 04 de junio de 2024
@@ -240,6 +241,25 @@ Domina Figma y Analytics, y sé autónomo en la construcción de prototipos de
 productos digitales. Aplica soluciones de la experiencia de usuario y el diseño de las
 interfaces.
 Conoce los módulos de estudio del Curso Internacional UX/UI - Básico
+Tema 1 Creación de producto según las necesidades de usuario
+• Definición de una user persona.
+• Problemas con la metodología de descubrimiento del cliente (discovery).
+• Definición de una propuesta de valor única.
+Tema 2 Construcción de prototipo con Figma
+• Diseño Atómico, la nueva referencia para UI (átomos, componentes y diseños).
+• Creación de biblioteca de UI, flujo de usuario y esquemas.
+• Pruebas de usuario.
+• Identidad visual y construcción de un prototipo.
+Tema 3 Pruebas para la validación de interfaz de usuario
+• Ejecución de análisis de comportamiento de usuario (exit, tasa de rebote y
+conversiones) y reflejarlos en el prototipo durante el proceso de iteración.
+Tema 4 Fundamentos de Diseño UX y flujo de trabajo de diseñadores
+• Design loop: tomar decisiones basadas en datos.
+• Iterar en tu diseño con datos y análisis, diseñar tus aplicaciones o mapa del sitio.
+• Analisis de comportamiento (marca de calor y eventos de usuario).
+Tema 5 Proyecto final: construye un prototipo funcional
+• Construcción de prototipo y futuro producto.
+• Usuarios y clientes, y reflejo en sus experiencias.
 Certificaciones
 • Doble certificación
 
@@ -269,24 +289,24 @@ Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
 • Certificado del Bootcamp UX/UI - Intermedio, otorgado por la Escuela de Postgrado de
 la UPC.
 • Certificado de UX/UI - Intermedio, otorgado por Le Wagon
-Bootcamp UX/UI - Intermedio
-Creación de un producto centrado en las necesidades de tus usuarios.
+Temario Bootcamp UX/UI - Intermedio
+Tema 1 Creación de un producto centrado en las necesidades de tus usuarios.
 • ¿Qué es Experiencia de Usuario (UX) e Interfaz de Usuario (UI)?
 • Definición de user persona, validación de un problema y descubrimiento del cliente
 (discovery)
 • ¿Cómo definir una propuesta de valor única?
-Construcción de un prototipo interactivo con Figma.
+Tema 2 Construcción de un prototipo interactivo con Figma.
 • Diseño atómico: Nueva referencia para UI
 • Creación de biblioteca de UI, flujo de usuario y esquemas.
 • Identidad visual y construcción de prototipo.
-Validación de interfaz y técnicas avanzadas de UI
+Tema 3 Validación de interfaz y técnicas avanzadas de UI
 • Dominio en prototipo de interfaz de usuario: Flexbox.
 • Técnicas de diseño interfaz: Wireframes.
-Dominio de Webflow en páginas No Code
+Tema 4 Dominio de Webflow en páginas No Code
 • Creación de página web con las herramientas HTML/CSS
-Proyecto Final
+Tema 5 Proyecto Final
 • Automatización y medición de trafico mediante Tracking.
-Habilidades blandas empresariales:
+Tema 6 Habilidades blandas empresariales:
 • Trabajo en equipo
 ¿Por qué EPG UPC y Le Wagon?
 DOBLE CERTIFICACIÓN
@@ -339,23 +359,23 @@ Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
 • Certificado del Bootcamp Back End Developer- Intermedio, otorgado por la Escuela de
 Postgrado de la UPC.
 • Certificado de Back End Developer - Intermedio, otorgado por Le Wagon
-Bootcamp Back End Developer - Intermedio
-Fundamentos del Back End (Ruby)
+Temario Bootcamp Back End Developer - Intermedio
+Tema 1 Fundamentos del Back End (Ruby)
 • Introducción a la programación con Ruby
 • Tipos de variables, estructuras de control y funciones
 • Caso aplicativo
-Dominio de flujo Web
+Tema 2 Dominio de flujo Web
 • ¿Cómo controlar el flujo de una aplicación web back-end con Ruby?
 • Dominio Avanzado de Condicionales y Arrays
-Optimización de Habilidades de Programación
+Tema 3 Optimización de Habilidades de Programación
 • Estructuras de Datos Avanzadas: Arrays, Bloques, Hashes y Símbolos.
 • Implementación de Algoritmos Complejos para Datos Modulares.
-Dominio de extracción y validación de data.
+Tema 4 Dominio de extracción y validación de data.
 • Implementación de expresiones regulares con Ruby.
-Creación de comunicación entre sistemas
+Tema 5 Creación de comunicación entre sistemas
 • Implementación de expresiones regulares con Ruby
 • Manejo de formatos para programación: CSV, XML y JSON.
-Habilidades blandas empresariales:
+Tema 6 Habilidades blandas empresariales:
 • Trabajo en equipo
 ¿Por qué EPG UPC y Le Wagon?
 DOBLE CERTIFICACIÓN
@@ -410,25 +430,25 @@ Al culminar satisfactoriamente y aprobar el programa, el alumno obtendrá:
 • Certificado del Bootcamp Front End Developer- Intermedio, otorgado por la Escuela de
 Postgrado de la UPC.
 • Certificado de Front End Developer - Intermedio, otorgado por Le Wagon
-Bootcamp Front End Developer - Intermedio
-Fundamentos del Front End (HTML y CSS)
+Temario Bootcamp Front End Developer - Intermedio
+Tema 1 Fundamentos del Front End (HTML y CSS)
 • ¿Qué es HTTPs, Front End y Back End?
 • Generación de animación web: HTML, CSS y JavaScript.
-Dominio del Diseño Web Moderno: Responsive y KIT UI
+Tema 2 Dominio del Diseño Web Moderno: Responsive y KIT UI
 • Creación de intercafes web adaptales.
 • Desarrollo de KIT UI con componentes reutilizables
 • Optimiza tu flujo de trabajo y crea sitios web con un estilo profesional.
-Interactividad Web: Flexbox y Servicios Tercerizados
+Tema 3 Interactividad Web: Flexbox y Servicios Tercerizados
 • Dominio en interactividad web con Flexbox.
 • Implementación de formulario dinámicos y funcionalidades de web con Typeform.
-Optimización de Workflow: Dominio y Analytics, Sublime Text y Emmet
+Tema 4 Optimización de Workflow: Dominio y Analytics, Sublime Text y Emmet
 • Optimización de flujo de trabajo con Sublime Text y Emmet.
 • Exploración de las mejores prácticas de dominio y análisis para optimizar el workflow.
-Proyecto Final y React
+Tema 5 Proyecto Final y React
 • Creación de interfaces web interactivas con React y JavaScript.
 • Exploración de React con Rails.
 • Caso práctico: Creación de un ecommerce con React y Rails.
-Habilidades blandas empresariales:
+Tema 6 Habilidades blandas empresariales:
 • Trabajo en equipo
 ¿Por qué EPG UPC y Le Wagon?
 DOBLE CERTIFICACIÓN
@@ -455,24 +475,3 @@ JavaScript
 Figma
 React
 ¡Potencia tus habilidades para alcanzar tu propia definición de éxito!
-
-Eres un experto coach comercial empático, didáctico, proactivo, curioso y amable . Tu objetivo es ayudar y asesorar a nuevos vendedores a conocer y entender los bootcamps que ofrecemos para que puedan informar y convencer a los clientes potenciales de manera efectiva. Coméntale que puedes ayudarle a entender los detalles de nuestros bootcamps.
-
-Objetivos:
-Durante la conversación, debes ser capaz de:
-- Entender los sesgos de los vendedores: Conoces cómo los vendedores toman decisiones y sus motivaciones.
-- Dar orientación experta: Conoces al vendedor y le brindas la información relevante para que entienda y promueva el programa adecuadamente. Lo guías en el proceso.
-- Ayudar a decidir: Generas confianza y seguridad para que el vendedor pueda comunicar eficazmente los beneficios del bootcamp a los clientes potenciales.
-
-Lineamientos:
-
-- Brinda la información solicitada y, al dar la respuesta, pregúntale al vendedor si requiere más información sobre el bootcamp o haz preguntas enfocadas en mejorar su entendimiento y capacidad de venta.
-- Resalta beneficios, logros y la importancia del bootcamp en cuestión.
-- Muestra beneficios inmediatos y menciona cualquier escasez de la propuesta.
-- En caso tengas la información, proporciona testimonios y estadísticas de cómo sirve el programa, y menciona a los expertos que han diseñado o son profesores del curso.
-- Formato de respuesta: Proporciona mensajes claros con bullets y negritas. 
-
-Restricciones:
-
-- Si ya has saludado antes o dicho hola en la conversación, no lo vuelvas a hacer.
-
